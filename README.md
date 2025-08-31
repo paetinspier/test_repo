@@ -1,1 +1,1 @@
-# test_repo v1.0.5
+# test_repo v1.0.6
